@@ -1,4 +1,4 @@
-# 01_2_Little_prince
+# Little Prince
 
 Hello people!
 
